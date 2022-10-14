@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 <p align="center">
   <img title="" alt="Name's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=zaynbsn&theme=monokai-metallian&hide_border=true&background=ffffff"/>
 </p>
+
+
+<a href="https://app.daily.dev/zaynbsn"><img src="https://api.daily.dev/devcards/be2e87e863b546e6aefa782a740c5deb.png?r=r8q" width="400" alt="Nils Boisson's Dev Card"/></a>
