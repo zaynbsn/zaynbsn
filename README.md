@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 </p>
 
 
-<a href="https://app.daily.dev/zaynbsn"><img src="https://api.daily.dev/devcards/be2e87e863b546e6aefa782a740c5deb.png?r=r8q" width="400" alt="Nils Boisson's Dev Card"/></a>
+<a href="https://app.daily.dev/zaynbsn"><img src="https://api.daily.dev/devcards/be2e87e863b546e6aefa782a740c5deb.png?r=r8q" style="display: flex; justify-content: center;" width="200" alt="Nils Boisson's Dev Card"/></a>
